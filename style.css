@@ -12,6 +12,11 @@ h1{
   color: darkcyan;
 }
 
+h2 {
+  color: darkcyan;
+  text-align: center;
+}
+
 hr{
   size:1px
 }
