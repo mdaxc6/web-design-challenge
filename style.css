@@ -12,6 +12,35 @@ h1{
   color: darkcyan;
 }
 
+@media (min-width: 0px) {
+  .index-header{
+    font-size: 24px;
+  }
+
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  .index-header{
+    font-size: 24px;
+  }
+
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  .index-header{
+    font-size: 28px;
+  }
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  .index-header{
+    font-size: 30px;
+  }
+}
+
 h2 {
   color: darkcyan;
   text-align: center;
